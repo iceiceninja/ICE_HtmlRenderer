@@ -8,7 +8,7 @@ Two files are given in the repo, test.html and test.css. So far the renderer can
 
 ### Example command
 `./run -h test.html -c test.css`
-
+(ignore above 'run' script. I no longer use it, but you would build the jar and run it with the same args)
 ## What does this do
 As of right now, it renders block display, padding, and background color on html elements. Any text outside of an element tag will currently either crash the program or not show up.
 
@@ -19,5 +19,4 @@ You can also find the github page for his HTML Renderer [here](https://github.co
 ## Future additions
 - Text rendering
 - Make Inline nodes space correctly
-- margins and borders
 - user defined and automatic styles
