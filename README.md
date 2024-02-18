@@ -10,8 +10,9 @@ Two files are given in the repo, test.html and test.css. So far the renderer can
 `./run -h test.html -c test.css`
 (ignore above 'run' script. I no longer use it, but you would build the jar and run it with the same args)
 ## What does this do
-As of right now, it renders block display, padding, and background color on html elements. Any text outside of an element tag will currently either crash the program or not show up.
-
+As of right now, it renders block display, padding, and background color on html elements. Any text outside of an element tag will currently either crash the program or not show up.  
+Below is what the test.html and test.css render.  
+![output.png](output.png)
 ## Thanks to
 I would love to thank Matt Brubeck and his [guide on creating a HTML Renderer](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) in Rust as I used this heavily to help me write what I have.
 You can also find the github page for his HTML Renderer [here](https://github.com/mbrubeck/robinson)
