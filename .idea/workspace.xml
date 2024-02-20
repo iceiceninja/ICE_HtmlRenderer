@@ -9,86 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8e903de-646a-4190-95d6-d3aa33f04107" name="Changes" comment="Fixed spacing of children and peers. Added border functionality.">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/htmlrenderer_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSColor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSColor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/CSSParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Declaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Declaration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Length.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Length.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Rule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Rule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/SimpleSelector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/SimpleSelector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Specificity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Specificity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Stylesheet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Stylesheet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Unit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Unit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Value.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Value.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Element.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Element.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/HTMLParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/HTMLParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Text.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Text.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLRenderer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLRenderer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/AnonymousBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/AnonymousBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/BlockNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/BlockNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/Dimensions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/Dimensions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/EdgeSizes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/EdgeSizes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/InlineNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/InlineNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/LayoutBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/LayoutBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/LayoutTree$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/LayoutTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/LayoutTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/Rect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Layout/Rect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Painting/Canvas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Painting/Canvas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Painting/DisplayCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Painting/DisplayCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Painting/DisplayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Painting/DisplayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Painting/Painter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Painting/Painter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Painting/SolidColor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Painting/SolidColor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/Display.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/Display.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/MatchedRule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/MatchedRule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/StyleTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/StyleTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/StyledNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/StyledNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/HTML/HTMLParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/HTML/HTMLParser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/HTMLRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/HTMLRenderer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/Painting/Canvas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/Painting/Canvas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/Painting/Painter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/Painting/Painter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/Style/StyledNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/Style/StyledNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/output.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/output.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/test.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.png" beforeDir="false" afterPath="$PROJECT_DIR$/output.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/test.css" afterDir="false" />
+    <list default="true" id="a8e903de-646a-4190-95d6-d3aa33f04107" name="Changes" comment="Fixed spacing of children and peers. Added border functionality.&#10;Added Text rendering">
       <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,10 +44,10 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/iceiceninja/Code/htmlrenderer",
+    "last_opened_file_path": "/home/iceiceninja/Code/htmlrenderer/META-INF/MANIFEST.MF",
     "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.fileTypes"
   }
 }]]></component>
@@ -157,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708059501511</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixed spacing of children and peers. Added border functionality.&#10;Added Text rendering">
+      <option name="closed" value="true" />
+      <created>1708470335277</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708470335277</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,7 +102,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixed spacing of children and peers. Added border functionality." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed spacing of children and peers. Added border functionality." />
+    <MESSAGE value="Fixed spacing of children and peers. Added border functionality.&#10;Added Text rendering" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed spacing of children and peers. Added border functionality.&#10;Added Text rendering" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
