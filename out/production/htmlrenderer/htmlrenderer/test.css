@@ -1,5 +1,20 @@
-*  { display: block; padding: 12px;}
-.a { background: rgb(255,0,0);}
-.b{background: rgb(0,0,255);}
-.c{background: rgb(0,255,0);}
-.d{background: rgb(0,200,200);}
+* {
+    display: block;
+    padding: 12px;
+}
+
+.a {
+    background: rgb(255, 0, 0);
+}
+
+.b {
+    background: rgb(0, 0, 255);
+}
+
+.c {
+    background: rgb(0, 255, 0);
+}
+
+.d {
+    background: rgb(0, 200, 200);
+}
