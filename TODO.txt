@@ -1,0 +1,24 @@
+TODO:
+
+(General)
+-> Make it where it can be sent multiple html files and it renders an output for all of them (can have it loop after flag 
+	'-h' or '-c' until it runs into another flag or end of arg. Getting all file names until then)
+-> Eventually make a GUI that allows you to upload html files and it sends it to this program and then displays the output png in the gui? 
+	(should this be a separate program? maybe just leave this to the epub file reader)
+
+
+(Style)
+-> Give tags such as <h1> their style settings
+-> Get text size to work properly (make it where is can be set with css)
+-> Get font family to work properly? 
+
+
+(HTML)
+
+(CSS)
+
+(Painter)
+
+(Layout)
+-> Get text to have correct position. (text should also expand parent)
+-> Get text to wrap and increase the height of parent

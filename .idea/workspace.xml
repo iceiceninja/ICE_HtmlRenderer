@@ -9,8 +9,81 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8e903de-646a-4190-95d6-d3aa33f04107" name="Changes" comment="Fixed spacing of children and peers. Added border functionality.&#10;Added Text rendering">
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+    <list default="true" id="a8e903de-646a-4190-95d6-d3aa33f04107" name="Changes" comment="Added Text rendering">
+      <change afterPath="$PROJECT_DIR$/CSS/CSSColor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSSColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSSParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/CSSParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Declaration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Declaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Length.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Rule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Rule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/SimpleSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/SimpleSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Specificity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Specificity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Stylesheet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Stylesheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Unit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Value.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Element.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/HTMLParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/HTMLParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Text.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLRenderer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/AnonymousBlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/AnonymousBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/BlockNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/BlockNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/Dimensions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/EdgeSizes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/EdgeSizes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/InlineNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/InlineNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/LayoutBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/LayoutBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/LayoutTree$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/LayoutTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/LayoutTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/Rect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout/Rect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painting/Canvas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painting/Canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painting/DisplayCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painting/DisplayCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painting/DisplayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painting/DisplayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painting/DisplayText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painting/Painter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painting/Painter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painting/SolidColor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painting/SolidColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Style/Display.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Style/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Style/MatchedRule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Style/MatchedRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Style/StyleTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Style/StyleTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Style/StyledNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Style/StyledNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TODO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/htmlrenderer_jar/htmlrenderer.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/.idea/artifacts/htmlrenderer_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/Painting/DisplayText.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/htmlrenderer/htmlrenderer/TODO.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +100,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;iceiceninja&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3eab5b40-d92e-482a-aab1-a9be66859c43" />
+        <option name="url" value="https://github.com/iceiceninja/ICE_HtmlRenderer.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -36,21 +126,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Run.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/iceiceninja/Code/htmlrenderer/META-INF/MANIFEST.MF",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.fileTypes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Run.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/iceiceninja/Code/htmlrenderer/META-INF/MANIFEST.MF&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Run" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="htmlrenderer.HTMLRenderer" />
@@ -86,7 +177,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708470335277</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added title tag to html file (does nothing as of now)">
+      <option name="closed" value="true" />
+      <created>1708470446694</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708470446694</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added title tag to html file (does nothing as of now)">
+      <option name="closed" value="true" />
+      <created>1708470462793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708470462793</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,7 +210,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixed spacing of children and peers. Added border functionality." />
     <MESSAGE value="Fixed spacing of children and peers. Added border functionality.&#10;Added Text rendering" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed spacing of children and peers. Added border functionality.&#10;Added Text rendering" />
+    <MESSAGE value="Added title tag to html file (does nothing as of now)" />
+    <MESSAGE value="Added Text rendering" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Text rendering" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
