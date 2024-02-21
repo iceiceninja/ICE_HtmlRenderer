@@ -18,6 +18,5 @@ I would love to thank Matt Brubeck and his [guide on creating a HTML Renderer](h
 You can also find the github page for his HTML Renderer [here](https://github.com/mbrubeck/robinson)
 
 ## Future additions
-- Text rendering
-- Make Inline nodes space correctly
+- Fully flesh out text rendering (get font size/family working)
 - user defined and automatic styles
